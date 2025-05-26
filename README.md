@@ -18,5 +18,5 @@ This standalone Lua script adds a non-lethal rubber bullet SMG for FiveM rolepla
 
 ---
 
-**Developer**: Kilian  
+**Developer**: Kilian  |  https://github.com/ITwenzyI?tab=repositories
 **Feel free to share feedback or suggestions!**
